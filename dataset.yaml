@@ -1,0 +1,9 @@
+train: /content/drive/MyDrive/Dataset/train/images  # Path to training images
+test: /content/drive/MyDrive/Dataset/test/images  # Path to testing images
+val: /content/drive/MyDrive/Dataset/val/images      # Path to validation images
+
+# Number of classes
+nc: 4
+
+# Class names
+names: ['Cloth', 'Glass', 'Paper', 'Plastic']
